@@ -6,10 +6,6 @@
     "baseBranches": ["testBranch"]
   },
   "checkRunSettings": {
-    "vulnerableCheckRunConclusionLevel": "failure",
-    "displayMode": "diff",
-    "useMendCheckNames": true
-  },
   "iss"",
     "issueType": ""
   },
